@@ -1,6 +1,6 @@
 # AC Current Measurement Using Arduino and CT Sensor
 
-This repository contains the **final project for the Electrical Machines I course** at **K. N. Toosi University of Technology**, instructed by **Dr. Ramin Alipour**.  
+This repository contains the **final project for the Electrical Machines II course** at **K. N. Toosi University of Technology**, instructed by **Dr. Ramin Alipour**.  
 The project demonstrates the **design and implementation of a safe, low-cost AC current measurement system** using an **Arduino**, **current transformer (CT) sensor**, and **signal conditioning circuit**.
 
 ---
